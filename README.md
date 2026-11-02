@@ -9,7 +9,7 @@
 
 ## Download
 
-**[Cadence.dmg](https://github.com/mimose/cadence-releases/releases/latest/download/Cadence.dmg)** — free, 4 MB, Apple silicon, macOS 13+.
+**[Cadence.dmg](https://github.com/mimose/cadence-releases/releases/latest/download/Cadence.dmg)** — free, 8 MB, Apple silicon & Intel, macOS 13+.
 
 Cadence isn't notarized yet. On first launch, macOS will say it can't verify the developer:
 **System Settings → Privacy & Security → Open Anyway**. You only need to do this once.
@@ -38,7 +38,7 @@ The app updates itself. Every release is listed under [Releases](https://github.
 
 每次按键，屏幕底部对应的位置都会升起一束光；还能把这一段录下来。
 
-**下载：[Cadence.dmg](https://github.com/mimose/cadence-releases/releases/latest/download/Cadence.dmg)**（免费，4 MB，Apple 芯片，macOS 13+）
+**下载：[Cadence.dmg](https://github.com/mimose/cadence-releases/releases/latest/download/Cadence.dmg)**（免费，8 MB，Apple 芯片与 Intel，macOS 13+）
 
 首次打开提示「无法验证开发者」：**系统设置 → 隐私与安全性 → 仍要打开**，只需一次。
 
